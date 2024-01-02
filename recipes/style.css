@@ -1,0 +1,13 @@
+* {
+    background-color: black;
+    color: white;
+}
+
+.title {
+    font-size: 64px;
+    color: greenyellow;
+}
+
+ul li a {
+    font-size: 32px;
+}
