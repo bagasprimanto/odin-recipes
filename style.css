@@ -23,16 +23,23 @@ body {
     font-family: sans-serif;
 }
 
+.home-container {
+    text-align: center;
+}
+
 a {
     color: yellow;
 }
 
-ul.menu-list {
-    margin-left: 32px;
-}
-
 ul.menu-list li {
     margin-bottom: 8px;
+    list-style: none;
+}
+
+.home-heading {
+    color: gold;
+    font-size: 48px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
 /* Recipes */
