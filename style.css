@@ -1,0 +1,38 @@
+/* Reset to box-sizing border-box */
+html {
+    box-sizing: border-box;
+}
+
+*,
+*::after,
+*::before {
+    box-sizing: inherit;
+}
+
+ul,
+ol,
+li {
+    padding: 0px;
+    margin: 0px;
+}
+
+/* Home page */
+body {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+}
+
+a {
+    color: yellow;
+}
+
+ul.menu-list {
+    margin-left: 32px;
+}
+
+ul.menu-list li {
+    margin-bottom: 8px;
+}
+
+/* Recipes */
