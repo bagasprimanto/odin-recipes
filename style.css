@@ -36,3 +36,27 @@ ul.menu-list li {
 }
 
 /* Recipes */
+div.recipe-container {
+    text-align: center;
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+div.recipe-container img {
+    width: 300px;
+    height: auto;
+}
+
+div.recipe-container h1 {
+    color: rgb(232, 98, 98);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+div.recipe-container ul,
+div.recipe-container ol {
+    text-align: left;
+}
+
+div.recipe-container li {
+    margin-bottom: 12px;
+}
